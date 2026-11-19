@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "An Efficient Arthritis Diagnostic Model using CoAtNet by Integrating Convolutional and Attention Mechanisms for Enhanced Precision"
+type: software
+license: MIT
+repository-code: "https://github.com/vlcmatrix-lab/coatnet-knee-osteoarthritis-detection"
+authors:
+  - family-names: Shehzad
+    given-names: Ahmad
+  - family-names: Akbar
+    given-names: Faheem
+  - family-names: Kehkashan
+    given-names: Tanzila
+  - family-names: Mohsin
+    given-names: Muhammad
+  - family-names: Zaman
+    given-names: Muhammad
+  - family-names: Shoukat
+    given-names: Abdul Rehman
+keywords:
+  - knee osteoarthritis
+  - CoAtNet
+  - attention mechanisms
+  - medical image analysis
+preferred-citation:
+  type: conference-paper
+  title: "An Efficient Arthritis Diagnostic Model using CoAtNet by Integrating Convolutional and Attention Mechanisms for Enhanced Precision"
+  authors:
+    - family-names: Shehzad
+      given-names: Ahmad
+    - family-names: Akbar
+      given-names: Faheem
+    - family-names: Kehkashan
+      given-names: Tanzila
+    - family-names: Mohsin
+      given-names: Muhammad
+    - family-names: Zaman
+      given-names: Muhammad
+    - family-names: Shoukat
+      given-names: Abdul Rehman
+  collection-title: "2024 5th International Conference on Innovative Computing (ICIC)"
+  publisher:
+    name: IEEE
+  year: 2024
+  doi: "10.1109/ICIC63915.2024.11116318"
+  url: "https://ieeexplore.ieee.org/document/11116318"
